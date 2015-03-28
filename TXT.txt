@@ -1,0 +1,20 @@
+﻿<body bgcolor="white">
+ <!--
+ <div style="text-align:center"> <img style="width:178px;height:60px;" id="largeImage" src="kugou_icon_for_ios.png" /></div>
+ <br/>
+
+<font color=4f4f4f size = 2px >版本号：酷狗音乐（iPhone）{version}<br/>
+官方Q群：149575996<br/>
+官方网站：<a href="http://download.kugou.com/iphone.html">http://shouji.kugou.com</a><br/>
+<br/>
+ -->
+ <font color=4f4f4f size = 2px >
+<h4 align="center">酷狗音乐iPhone版服务条款</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;酷狗音乐iPhone版适用于iOS 5.0及以上系统的设备。本软件的下载、安装完全免费，使用过程中产生的数据流量费用，由运营商收取。如在其他手机系统上使用本软件，对于出现的任何问题，酷狗公司不承担任何责任。本软件是由酷狗公司自主开发，非经酷狗公司授权开发并正式发布的其他任何由本软件衍生的软件均属非法，下载、安装、使用此类软件将可能导致不可预知的风险，由此产生的法律责任与纠纷一概与酷狗公司无关。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;酷狗公司一贯高度重视知识产权保护并遵守中国各项知识产权法律、法规和具有约束力的规范性文件。重视正版，打击盗版。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;酷狗音乐部分内容来自用户上传，酷狗音乐不存储用户上传的内容资源。根据法律、法规和规范性文件要求，酷狗公司制定了旨在保护知识产权权利人合法权益的措施和步骤，当著作权人和/或依法可以行使信息网络传播权的权利人发现通过酷狗音乐搜索或链接的内容侵犯其权利时，权利人应事先向酷狗公司发出“权利通知”。酷狗公司在收到并审核上述通知材料后，对符合要求的通知，将根据中国法律法规和政府规范性文件，在最短时间内删除侵权内容或断开相关链接，保护权利人的合法权益。<br/>
+<br/>
+广州酷狗计算机科技有限公司版权所有Copyright ©<br/>
+2004-2014 KuGou-Inc. All Right Reserved<br/>
+</font>
+</body>
